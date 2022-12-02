@@ -17,12 +17,19 @@
 | Maria Eugenia	Lisio     | mariaeugenial@gmail.com       |
 -----------------------------------------------------------
 
-### Ejecutar proyecto:
+### Como ejecutar proyecto:
 
 
-#### back:
-```nodemon <app>```
+#### back: (JSX)
+```
+npm i
+nodemon <app>
+```
+
 #### front: (React)
-``` npm start	```
+``` 
+npm i
+npm start	
+```
 
 
