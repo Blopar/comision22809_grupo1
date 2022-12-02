@@ -18,9 +18,11 @@
 -----------------------------------------------------------
 
 ### Ejecutar proyecto:
+
+
 #### back:
-##### nodemon <app>
+```nodemon <app>```
 #### front: (React)
-##### npm start	
+``` npm start	```
 
 
