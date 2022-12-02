@@ -17,6 +17,10 @@
 | Maria Eugenia	Lisio     | mariaeugenial@gmail.com       |
 -----------------------------------------------------------
 
-	
+### Ejecutar proyecto:
+#### back:
+##### nodemon <app>
+#### front: (React)
+##### npm start	
 
 
