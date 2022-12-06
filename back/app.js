@@ -6,8 +6,8 @@ console.log("Inicio de programa");
 //getAllBrands();
 
 //listado de telefonos -> debería venir de un listado predefinido en el Front End
-const arrayPhones = ["alcatel","Apple","BlackBerry","Cat","Google","HTC","Huawei","LG",
-        "BLU","Motorola","Nokia","Samsung","TCL","Sony","Sony Ericsson","Xiaomi","ZTE"];
+const arrayPhones = ["Alcatel","Apple","BlackBerry","Cat","Google","HTC","Huawei","LG",
+        "BLU","Motorola","Nokia","Samsung","TCL","Sony","Xiaomi","ZTE"];
 
         
 const brandPhoneData = await getBrandPhone(arrayPhones[3]);//Apple
