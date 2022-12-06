@@ -1,0 +1,343 @@
+{
+    "title": "Apple iPhone 13 Pro Max",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+    "img_url": "apple_iphone_13_pro_max-pictures-11089.php",
+    "spec_detail": [
+        {
+            "category": "Network",
+            "specs": [
+                {
+                    "name": "Technology",
+                    "value": "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+                },
+                {
+                    "name": "2G bands",
+                    "value": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM)"
+                },
+                {
+                    "name": " ",
+                    "value": "CDMA 800 / 1900 "
+                },
+                {
+                    "name": "3G bands",
+                    "value": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 "
+                },
+                {
+                    "name": " ",
+                    "value": "CDMA2000 1xEV-DO "
+                },
+                {
+                    "name": "4G bands",
+                    "value": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A2643, A2644, A2645"
+                },
+                {
+                    "name": " ",
+                    "value": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66, 71 - A2484, A2641"
+                },
+                {
+                    "name": "5G bands",
+                    "value": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - A2643, A2644"
+                },
+                {
+                    "name": " ",
+                    "value": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 29, 30, 38, 40, 41, 48, 66, 71, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A2484"
+                },
+                {
+                    "name": " ",
+                    "value": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 29, 30, 38, 40, 41, 48, 66, 71, 77, 78, 79 SA/NSA/Sub6 - A2641"
+                },
+                {
+                    "name": "Speed",
+                    "value": "HSPA, LTE-A, 5G, EV-DO Rev.A 3.1 Mbps"
+                }
+            ]
+        },
+        {
+            "category": "Launch",
+            "specs": [
+                {
+                    "name": "Announced",
+                    "value": "2021, September 14"
+                },
+                {
+                    "name": "Status",
+                    "value": "Available. Released 2021, September 24"
+                }
+            ]
+        },
+        {
+            "category": "Body",
+            "specs": [
+                {
+                    "name": "Dimensions",
+                    "value": "160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in)"
+                },
+                {
+                    "name": "Weight",
+                    "value": "240 g (8.47 oz)"
+                },
+                {
+                    "name": "Build",
+                    "value": "Glass front (Corning-made glass), glass back (Corning-made glass), stainless steel frame"
+                },
+                {
+                    "name": "SIM",
+                    "value": "Nano-SIM and eSIM or Dual SIM (Nano-SIM, dual stand-by)"
+                },
+                {
+                    "name": " ",
+                    "value": "IP68 dust/water resistant (up to 6m for 30 mins)\nApple Pay (Visa, MasterCard, AMEX certified)"
+                }
+            ]
+        },
+        {
+            "category": "Display",
+            "specs": [
+                {
+                    "name": "Type",
+                    "value": "Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak)"
+                },
+                {
+                    "name": "Size",
+                    "value": "6.7 inches, 109.8 cm2 (~87.4% screen-to-body ratio)"
+                },
+                {
+                    "name": "Resolution",
+                    "value": "1284 x 2778 pixels, 19.5:9 ratio (~458 ppi density)"
+                },
+                {
+                    "name": "Protection",
+                    "value": "Ceramic Shield glass"
+                }
+            ]
+        },
+        {
+            "category": "Platform",
+            "specs": [
+                {
+                    "name": "OS",
+                    "value": "iOS 15, upgradable to iOS 16.1"
+                },
+                {
+                    "name": "Chipset",
+                    "value": "Apple A15 Bionic (5 nm)"
+                },
+                {
+                    "name": "CPU",
+                    "value": "Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard)"
+                },
+                {
+                    "name": "GPU",
+                    "value": "Apple GPU (5-core graphics)"
+                }
+            ]
+        },
+        {
+            "category": "Memory",
+            "specs": [
+                {
+                    "name": "Card slot",
+                    "value": "No"
+                },
+                {
+                    "name": "Internal",
+                    "value": "128GB 6GB RAM, 256GB 6GB RAM, 512GB 6GB RAM, 1TB 6GB RAM"
+                },
+                {
+                    "name": " ",
+                    "value": "NVMe"
+                }
+            ]
+        },
+        {
+            "category": "Main Camera",
+            "specs": [
+                {
+                    "name": "Triple",
+                    "value": "12 MP, f/1.5, 26mm (wide), 1/1.7\", 1.9µm, dual pixel PDAF, sensor-shift OIS\n12 MP, f/2.8, 77mm (telephoto), PDAF, 1/3.5\", OIS, 3x optical zoom\n12 MP, f/1.8, 13mm, 120˚ (ultrawide), 1/3.5\", PDAF\nTOF 3D LiDAR scanner (depth)"
+                },
+                {
+                    "name": "Features",
+                    "value": "Dual-LED dual-tone flash, HDR (photo/panorama)"
+                },
+                {
+                    "name": "Video",
+                    "value": "4K@24/30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (1080p@30fps), stereo sound rec."
+                }
+            ]
+        },
+        {
+            "category": "Selfie camera",
+            "specs": [
+                {
+                    "name": "Single",
+                    "value": "12 MP, f/2.2, 23mm (wide), 1/3.6\"\nSL 3D, (depth/biometrics sensor)"
+                },
+                {
+                    "name": "Features",
+                    "value": "HDR"
+                },
+                {
+                    "name": "Video",
+                    "value": "4K@24/25/30/60fps, 1080p@30/60/120fps, gyro-EIS"
+                }
+            ]
+        },
+        {
+            "category": "Sound",
+            "specs": [
+                {
+                    "name": "Loudspeaker ",
+                    "value": "Yes, with stereo speakers"
+                },
+                {
+                    "name": "3.5mm jack ",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "category": "Comms",
+            "specs": [
+                {
+                    "name": "WLAN",
+                    "value": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+                },
+                {
+                    "name": "Bluetooth",
+                    "value": "5.0, A2DP, LE"
+                },
+                {
+                    "name": "Positioning",
+                    "value": "GPS, GLONASS, GALILEO, BDS, QZSS"
+                },
+                {
+                    "name": "NFC",
+                    "value": "Yes"
+                },
+                {
+                    "name": "Radio",
+                    "value": "No"
+                },
+                {
+                    "name": "USB",
+                    "value": "Lightning, USB 2.0"
+                }
+            ]
+        },
+        {
+            "category": "Features",
+            "specs": [
+                {
+                    "name": "Sensors",
+                    "value": "Face ID, accelerometer, gyro, proximity, compass, barometer"
+                },
+                {
+                    "name": " ",
+                    "value": "Ultra Wideband (UWB) support"
+                }
+            ]
+        },
+        {
+            "category": "Battery",
+            "specs": [
+                {
+                    "name": "Type",
+                    "value": "Li-Ion 4352 mAh, non-removable (16.75 Wh)"
+                },
+                {
+                    "name": "Charging",
+                    "value": "Wired, PD2.0, 50% in 30 min (advertised)\n15W wireless (MagSafe)\n7.5W wireless (Qi)"
+                }
+            ]
+        },
+        {
+            "category": "Misc",
+            "specs": [
+                {
+                    "name": "Colors",
+                    "value": "Graphite, Gold, Silver, Sierra Blue, Alpine Green"
+                },
+                {
+                    "name": "Models",
+                    "value": "A2643, A2484, A2641, A2644, A2645, iphone14,3"
+                },
+                {
+                    "name": "SAR",
+                    "value": "1.18 W/kg (head)     1.20 W/kg (body)     "
+                },
+                {
+                    "name": "SAR EU",
+                    "value": "0.99 W/kg (head)     0.98 W/kg (body)     "
+                },
+                {
+                    "name": "Price",
+                    "value": "€ 1,553.20 / $ 849.99 / £ 1,074.73 / ₹ 119,900 / Rp 23,681,736"
+                }
+            ]
+        },
+        {
+            "category": "Tests",
+            "specs": [
+                {
+                    "name": "Performance",
+                    "value": "\nAnTuTu: 801691 (v9)\nGeekBench: 4706 (v5.1)\nGFXBench: 60fps (ES 3.1 onscreen)"
+                },
+                {
+                    "name": "Display",
+                    "value": "\nContrast ratio: Infinite (nominal)"
+                },
+                {
+                    "name": "Camera",
+                    "value": "\nPhoto / Video"
+                },
+                {
+                    "name": "Loudspeaker",
+                    "value": "\n-24.0 LUFS (Very good)\n\n"
+                },
+                {
+                    "name": "Battery life",
+                    "value": "\n\nEndurance rating 121h\n\n"
+                },
+                {
+                    "name": "",
+                    "value": ""
+                }
+            ]
+        }
+    ],
+    "quick_spec": [
+        {
+            "name": "Display size",
+            "value": "6.7\""
+        },
+        {
+            "name": "Display resolution",
+            "value": "1284x2778 pixels"
+        },
+        {
+            "name": "Camera pixels",
+            "value": "12MP\n      "
+        },
+        {
+            "name": "Video pixels",
+            "value": "2160p"
+        },
+        {
+            "name": "RAM size",
+            "value": "6GB RAM"
+        },
+        {
+            "name": "Shipset",
+            "value": "Apple A15 Bionic"
+        },
+        {
+            "name": "Battery size",
+            "value": "4352mAh"
+        },
+        {
+            "name": "Battery type",
+            "value": "Li-Ion"
+        }
+    ]
+}

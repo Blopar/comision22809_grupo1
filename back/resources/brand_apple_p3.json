@@ -1,0 +1,205 @@
+{
+    "data": [
+        {
+            "name": "Watch Edition 38mm (1st gen)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-edition-38mm.jpg",
+            "url": "apple_watch_edition_38mm_(1st_gen)-7697",
+            "description": "Apple Watch Edition 38mm (1st gen) watch. Announced Sep 2014. Features 1.5″  display, Apple S1 chipset, 205 mAh battery, 8 GB storage, 512 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch 42mm (1st gen)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-42mm.jpg",
+            "url": "apple_watch_42mm_(1st_gen)-7696",
+            "description": "Apple Watch 42mm (1st gen) watch. Announced Sep 2014. Features 1.65″  display, Apple S1 chipset, 250 mAh battery, 8 GB storage, 512 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch 38mm (1st gen)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-38mm.jpg",
+            "url": "apple_watch_38mm_(1st_gen)-7695",
+            "description": "Apple Watch 38mm (1st gen) watch. Announced Sep 2014. Features 1.5″  display, Apple S1 chipset, 205 mAh battery, 8 GB storage, 512 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Sport 42mm (1st gen)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-sport-42mm2.jpg",
+            "url": "apple_watch_sport_42mm_(1st_gen)-7694",
+            "description": "Apple Watch Sport 42mm (1st gen) watch. Announced Sep 2014. Features 1.65″  display, Apple S1 chipset, 250 mAh battery, 8 GB storage, 512 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "Watch Sport 38mm (1st gen)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-sport-38mm.jpg",
+            "url": "apple_watch_sport_38mm_(1st_gen)-7693",
+            "description": "Apple Watch Sport 38mm (1st gen) watch. Announced Sep 2014. Features 1.5″  display, Apple S1 chipset, 205 mAh battery, 8 GB storage, 512 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "iPad Air 2",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-2-new.jpg",
+            "url": "apple_ipad_air_2-6742",
+            "description": "Apple iPad Air 2 tablet. Announced Oct 2014. Features 9.7″  display, Apple A8X chipset, 8 MP primary camera, 1.2 MP front camera, 7340 mAh battery, 128 GB storage, 2 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad mini 3",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-3-new.jpg",
+            "url": "apple_ipad_mini_3-6741",
+            "description": "Apple iPad mini 3 tablet. Announced Oct 2014. Features 7.9″  display, Apple A7 chipset, 5 MP primary camera, 1.2 MP front camera, 6470 mAh battery, 128 GB storage, 1000 MB RAM, Oleophobic coating."
+        },
+        {
+            "name": "iPhone 6 Plus",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6-plus2.jpg",
+            "url": "apple_iphone_6_plus-6665",
+            "description": "Apple iPhone 6 Plus smartphone. Announced Sep 2014. Features 5.5″  display, Apple A8 chipset, 8 MP primary camera, 1.2 MP front camera, 2915 mAh battery, 128 GB storage, 1000 MB RAM, Ion-strengthened glass."
+        },
+        {
+            "name": "iPhone 6",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6-4.jpg",
+            "url": "apple_iphone_6-6378",
+            "description": "Apple iPhone 6 smartphone. Announced Sep 2014. Features 4.7″  display, Apple A8 chipset, 8 MP primary camera, 1.2 MP front camera, 1810 mAh battery, 128 GB storage, 1000 MB RAM, Ion-strengthened glass."
+        },
+        {
+            "name": "iPad Air",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air.jpg",
+            "url": "apple_ipad_air-5797",
+            "description": "Apple iPad Air tablet. Announced Oct 2013. Features 9.7″  display, Apple A7 chipset, 5 MP primary camera, 1.2 MP front camera, 8820 mAh battery, 128 GB storage, 1000 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad mini 2",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini2.jpg",
+            "url": "apple_ipad_mini_2-5735",
+            "description": "Apple iPad mini 2 tablet. Announced Oct 2013. Features 7.9″  display, Apple A7 chipset, 5 MP primary camera, 1.2 MP front camera, 6470 mAh battery, 128 GB storage, 1000 MB RAM, Oleophobic coating."
+        },
+        {
+            "name": "iPhone 5s",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5s-ofic.jpg",
+            "url": "apple_iphone_5s-5685",
+            "description": "Apple iPhone 5s smartphone. Announced Sep 2013. Features 4.0″  display, Apple A7 chipset, 8 MP primary camera, 1.2 MP front camera, 1560 mAh battery, 64 GB storage, 1000 MB RAM, Corning Gorilla Glass."
+        },
+        {
+            "name": "iPhone 5c",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5c-new2.jpg",
+            "url": "apple_iphone_5c-5690",
+            "description": "Apple iPhone 5c smartphone. Announced Sep 2013. Features 4.0″  display, Apple A6 chipset, 8 MP primary camera, 1.2 MP front camera, 1510 mAh battery, 32 GB storage, 1000 MB RAM."
+        },
+        {
+            "name": "iPad mini Wi-Fi",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-final.jpg",
+            "url": "apple_ipad_mini_wi_fi-5070",
+            "description": "Apple iPad mini Wi-Fi tablet. Announced Oct 2012. Features 7.9″  display, Apple A5 chipset, 5 MP primary camera, 1.2 MP front camera, 64 GB storage, 512 MB RAM, Oleophobic coating."
+        },
+        {
+            "name": "iPad mini Wi-Fi + Cellular",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-final.jpg",
+            "url": "apple_ipad_mini_wi_fi_+_cellular-5061",
+            "description": "Apple iPad mini Wi-Fi + Cellular tablet. Announced Oct 2012. Features 7.9″  display, Apple A5 chipset, 5 MP primary camera, 1.2 MP front camera, 64 GB storage, 512 MB RAM, Oleophobic coating."
+        },
+        {
+            "name": "iPad 4 Wi-Fi",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+            "url": "apple_ipad_4_wi_fi-5072",
+            "description": "Apple iPad 4 Wi-Fi tablet. Announced Oct 2012. Features 9.7″  display, Apple A6X chipset, 5 MP primary camera, 1.2 MP front camera, 11560 mAh battery, 128 GB storage, 1000 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad 4 Wi-Fi + Cellular",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+            "url": "apple_ipad_4_wi_fi_+_cellular-5071",
+            "description": "Apple iPad 4 Wi-Fi + Cellular tablet. Announced Oct 2012. Features 9.7″  display, Apple A6X chipset, 5 MP primary camera, 1.2 MP front camera, 11560 mAh battery, 128 GB storage, 1000 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone 5",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5-ofic.jpg",
+            "url": "apple_iphone_5-4910",
+            "description": "Apple iPhone 5 smartphone. Announced Sep 2012. Features 4.0″  display, Apple A6 chipset, 8 MP primary camera, 1.2 MP front camera, 1440 mAh battery, 64 GB storage, 1000 MB RAM, Corning Gorilla Glass."
+        },
+        {
+            "name": "iPad 3 Wi-Fi + Cellular",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+            "url": "apple_ipad_3_wi_fi_+_cellular-4620",
+            "description": "Apple iPad 3 Wi-Fi + Cellular tablet. Announced Mar 2012. Features 9.7″  display, Apple A5X chipset, 5 MP primary camera, 11560 mAh battery, 64 GB storage, 1000 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad 3 Wi-Fi",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg",
+            "url": "apple_ipad_3_wi_fi-4621",
+            "description": "Apple iPad 3 Wi-Fi tablet. Announced Mar 2012. Features 9.7″  display, Apple A5X chipset, 5 MP primary camera, 11560 mAh battery, 64 GB storage, 1000 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone 4s",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-4s-new.jpg",
+            "url": "apple_iphone_4s-4212",
+            "description": "Apple iPhone 4s smartphone. Announced Oct 2011. Features 3.5″  display, Apple A5 chipset, 8 MP primary camera, 1432 mAh battery, 64 GB storage, 512 MB RAM, Corning Gorilla Glass."
+        },
+        {
+            "name": "iPad 2 Wi-Fi + 3G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad2-new.jpg",
+            "url": "apple_ipad_2_wi_fi_+_3g-3848",
+            "description": "Apple iPad 2 Wi-Fi + 3G tablet. Announced Mar 2011. Features 9.7″  display, Apple A5 chipset, 0.7 MP primary camera, 6930 mAh battery, 64 GB storage, 512 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad 2 Wi-Fi",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad2-new.jpg",
+            "url": "apple_ipad_2_wi_fi-3847",
+            "description": "Apple iPad 2 Wi-Fi tablet. Announced Mar 2011. Features 9.7″  display, Apple A5 chipset, 0.7 MP primary camera, 6930 mAh battery, 64 GB storage, 512 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad 2 CDMA",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad2-new.jpg",
+            "url": "apple_ipad_2_cdma-3849",
+            "description": "Apple iPad 2 CDMA tablet. Announced Mar 2011. Features 9.7″  display, Apple A5 chipset, 0.7 MP primary camera, 6930 mAh battery, 64 GB storage, 512 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone 4",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-4-ofic-final.jpg",
+            "url": "apple_iphone_4-3275",
+            "description": "Apple iPhone 4 smartphone. Announced Jun 2010. Features 3.5″  display, Apple A4 chipset, 5 MP primary camera, 1420 mAh battery, 32 GB storage, 512 MB RAM, Corning Gorilla Glass."
+        },
+        {
+            "name": "iPhone 4 CDMA",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone4-cdma.jpg",
+            "url": "apple_iphone_4_cdma-3716",
+            "description": "Apple iPhone 4 CDMA smartphone. Announced Jan 2011. Features 3.5″  display, Apple A4 chipset, 5 MP primary camera, 1420 mAh battery, 32 GB storage, 512 MB RAM, Corning Gorilla Glass."
+        },
+        {
+            "name": "iPad Wi-Fi + 3G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-original.jpg",
+            "url": "apple_ipad_wi_fi_+_3g-3827",
+            "description": "Apple iPad Wi-Fi + 3G tablet. Announced Jan 2010. Features 9.7″  display, Apple A4 chipset, 64 GB storage, 256 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad Wi-Fi",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-original.jpg",
+            "url": "apple_ipad_wi_fi-3828",
+            "description": "Apple iPad Wi-Fi tablet. Announced Jan 2010. Features 9.7″  display, Apple A4 chipset, 64 GB storage, 256 MB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone 3GS",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-3gs-ofic.jpg",
+            "url": "apple_iphone_3gs-2826",
+            "description": "Apple iPhone 3GS smartphone. Announced Jun 2009. Features 3.5″  display, 3.15 MP primary camera, 1400 mAh battery, 32 GB storage, 256 MB RAM, Corning Gorilla Glass."
+        },
+        {
+            "name": "iPhone 3G",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone3g.jpg",
+            "url": "apple_iphone_3g-2424",
+            "description": "Apple iPhone 3G smartphone. Announced Jun 2008. Features 3.5″  display, 2 MP primary camera, 1220 mAh battery, 16 GB storage, 128 MB RAM, Corning Gorilla Glass."
+        },
+        {
+            "name": "iPhone",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone.gif",
+            "url": "apple_iphone-1827",
+            "description": "Apple iPhone smartphone. Announced Jan 2007. Features 3.5″  display, 2 MP primary camera, 1400 mAh battery, 16 GB storage, Corning Gorilla Glass."
+        }
+    ],
+    "prev": "apple-phones-f-48-0-p2",
+    "pages": [
+        {
+            "number": 1,
+            "url": "apple-phones-48"
+        },
+        {
+            "number": 2,
+            "url": "apple-phones-f-48-0-p2"
+        },
+        {
+            "number": 3,
+            "active": true
+        }
+    ]
+}

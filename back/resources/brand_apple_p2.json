@@ -1,0 +1,260 @@
+{
+    "data": [
+        {
+            "name": "iPad 10.2 (2019)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad7-102-inches.jpg",
+            "url": "apple_ipad_10_2_(2019)-9857",
+            "description": "Apple iPad 10.2 (2019) tablet. Announced Sep 2019. Features 10.2″  display, Apple A10 Fusion chipset, 8827 mAh battery, 128 GB storage, 3 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "Watch Edition Series 5",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-edition-series-5.jpg",
+            "url": "apple_watch_edition_series_5-9860",
+            "description": "Apple Watch Edition Series 5 watch. Announced Sep 2019. Features 1.78″  display, Apple S5 chipset, 296 mAh battery, 32 GB storage, 1000 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Series 5",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-5.jpg",
+            "url": "apple_watch_series_5-9859",
+            "description": "Apple Watch Series 5 watch. Announced Sep 2019. Features 1.78″  display, Apple S5 chipset, 296 mAh battery, 32 GB storage, 1000 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Series 5 Aluminum",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-aluminum-series-5.jpg",
+            "url": "apple_watch_series_5_aluminum-9858",
+            "description": "Apple Watch Series 5 Aluminum watch. Announced Sep 2019. Features 1.78″  display, Apple S5 chipset, 296 mAh battery, 32 GB storage, 1000 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "iPad Air (2019)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air3-2019.jpg",
+            "url": "apple_ipad_air_(2019)-9638",
+            "description": "Apple iPad Air (2019) tablet. Announced Mar 2019. Features 10.5″  display, Apple A12 Bionic chipset, 8134 mAh battery, 256 GB storage, 3 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad mini (2019)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-2019.jpg",
+            "url": "apple_ipad_mini_(2019)-9637",
+            "description": "Apple iPad mini (2019) tablet. Announced Mar 2019. Features 7.9″  display, Apple A12 Bionic chipset, 5124 mAh battery, 256 GB storage, 3 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad Pro 12.9 (2018)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-129-2018.jpg",
+            "url": "apple_ipad_pro_12_9_(2018)-9387",
+            "description": "Apple iPad Pro 12.9 (2018) tablet. Announced Oct 2018. Features 12.9″  display, Apple A12X Bionic chipset, 9720 mAh battery, 1024 GB storage, 6 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad Pro 11 (2018)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2018.jpg",
+            "url": "apple_ipad_pro_11_(2018)-9386",
+            "description": "Apple iPad Pro 11 (2018) tablet. Announced Oct 2018. Features 11.0″  display, Apple A12X Bionic chipset, 7812 mAh battery, 1024 GB storage, 4 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone XS Max",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg",
+            "url": "apple_iphone_xs_max-9319",
+            "description": "Apple iPhone XS Max smartphone. Announced Sep 2018. Features 6.5″  display, Apple A12 Bionic chipset, Dual: 12 MP (f/1.8, 26mm, 1/2.55″, 1.4µm) + 12 MP primary camera, 7 MP front camera, 3174 mAh battery, 512 GB storage, 4 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone XS",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg",
+            "url": "apple_iphone_xs-9318",
+            "description": "Apple iPhone XS smartphone. Announced Sep 2018. Features 5.8″  display, Apple A12 Bionic chipset, Dual: 12 MP (f/1.8, 26mm, 1/2.55″, 1.4µm) + 12 MP primary camera, 7 MP front camera, 2658 mAh battery, 512 GB storage, 4 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone XR",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg",
+            "url": "apple_iphone_xr-9320",
+            "description": "Apple iPhone XR smartphone. Announced Sep 2018. Features 6.1″  display, Apple A12 Bionic chipset, 12 MP primary camera, 7 MP front camera, 2942 mAh battery, 256 GB storage, 3 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "Watch Series 4",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-4-steel.jpg",
+            "url": "apple_watch_series_4-9321",
+            "description": "Apple Watch Series 4 watch. Announced Sep 2018. Features 1.78″  display, Apple S4 chipset, 292 mAh battery, 16 GB storage, 1000 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Series 4 Aluminum",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-4-aluminum.jpg",
+            "url": "apple_watch_series_4_aluminum-9322",
+            "description": "Apple Watch Series 4 Aluminum watch. Announced Sep 2018. Features 1.78″  display, Apple S4 chipset, 16 GB storage, 1000 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "iPad 9.7 (2018)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-97-2018.jpg",
+            "url": "apple_ipad_9_7_(2018)-9142",
+            "description": "Apple iPad 9.7 (2018) tablet. Announced Mar 2018. Features 9.7″  display, Apple A10 Fusion chipset, 8 MP primary camera, 1.2 MP front camera, 8827 mAh battery, 128 GB storage, 2 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone X",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-x.jpg",
+            "url": "apple_iphone_x-8858",
+            "description": "Apple iPhone X smartphone. Announced Sep 2017. Features 5.8″  display, Apple A11 Bionic chipset, Dual: 12 MP (f/1.8, 28mm, 1.22µm) + 12 MP primary camera, 7 MP front camera, 2716 mAh battery, 256 GB storage, 3 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone 8 Plus",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-8-plus-new.jpg",
+            "url": "apple_iphone_8_plus-8131",
+            "description": "Apple iPhone 8 Plus smartphone. Announced Sep 2017. Features 5.5″  display, Apple A11 Bionic chipset, Dual: 12 MP (f/1.8, 28mm, OIS) + 12 MP primary camera, 7 MP front camera, 2691 mAh battery, 256 GB storage, 3 GB RAM, Ion-strengthened glass."
+        },
+        {
+            "name": "iPhone 8",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-8-new.jpg",
+            "url": "apple_iphone_8-8573",
+            "description": "Apple iPhone 8 smartphone. Announced Sep 2017. Features 4.7″  display, Apple A11 Bionic chipset, 12 MP primary camera, 7 MP front camera, 1821 mAh battery, 256 GB storage, 2 GB RAM, Ion-strengthened glass."
+        },
+        {
+            "name": "Watch Edition Series 3",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-edition-series3.jpg",
+            "url": "apple_watch_edition_series_3-8861",
+            "description": "Apple Watch Edition Series 3 watch. Announced Sep 2017. Features 1.65″  display, Apple S3 chipset, 341 mAh battery, 16 GB storage, 768 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Series 3",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series3-.jpg",
+            "url": "apple_watch_series_3-8860",
+            "description": "Apple Watch Series 3 watch. Announced Sep 2017. Features 1.65″  display, Apple S3 chipset, 279 mAh battery, 16 GB storage, 768 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Series 3 Aluminum",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series3-sport-.jpg",
+            "url": "apple_watch_series_3_aluminum-8859",
+            "description": "Apple Watch Series 3 Aluminum watch. Announced Sep 2017. Features 1.65″  display, Apple S3 chipset, 279 mAh battery, 16 GB storage, 768 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "iPad Pro 12.9 (2017)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-129-2017.jpg",
+            "url": "apple_ipad_pro_12_9_(2017)-8717",
+            "description": "Apple iPad Pro 12.9 (2017) tablet. Announced Jun 2017. Features 12.9″  display, Apple A10X Fusion chipset, 12 MP primary camera, 7 MP front camera, 10891 mAh battery, 512 GB storage, 4 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad Pro 10.5 (2017)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-105-2017.jpg",
+            "url": "apple_ipad_pro_10_5_(2017)-8716",
+            "description": "Apple iPad Pro 10.5 (2017) tablet. Announced Jun 2017. Features 10.5″  display, Apple A10X Fusion chipset, 12 MP primary camera, 7 MP front camera, 8134 mAh battery, 512 GB storage, 4 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad 9.7 (2017)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-97-2017.jpg",
+            "url": "apple_ipad_9_7_(2017)-8620",
+            "description": "Apple iPad 9.7 (2017) tablet. Announced Mar 2017. Features 9.7″  display, Apple A9 chipset, 8 MP primary camera, 1.2 MP front camera, 8827 mAh battery, 128 GB storage, 2 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "Watch Edition Series 2 42mm",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-edition-42mm.jpg",
+            "url": "apple_watch_edition_series_2_42mm-8331",
+            "description": "Apple Watch Edition Series 2 42mm watch. Announced Sep 2016. Features 1.65″  display, Apple S2 chipset, 334 mAh battery, 8 GB storage, 512 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Edition Series 2 38mm",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-edition-38mm.jpg",
+            "url": "apple_watch_edition_series_2_38mm-8332",
+            "description": "Apple Watch Edition Series 2 38mm watch. Announced Sep 2016. Features 1.5″  display, Apple S2 chipset, 273 mAh battery, 8 GB storage, 512 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Series 2 42mm",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-42mm.jpg",
+            "url": "apple_watch_series_2_42mm-8329",
+            "description": "Apple Watch Series 2 42mm watch. Announced Sep 2016. Features 1.65″  display, Apple S2 chipset, 334 mAh battery, 8 GB storage, 512 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Series 2 38mm",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-38mm.jpg",
+            "url": "apple_watch_series_2_38mm-8330",
+            "description": "Apple Watch Series 2 38mm watch. Announced Sep 2016. Features 1.5″  display, Apple S2 chipset, 273 mAh battery, 8 GB storage, 512 MB RAM, Sapphire crystal glass."
+        },
+        {
+            "name": "Watch Series 2 Aluminum 42mm",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-42mm.jpg",
+            "url": "apple_watch_series_2_aluminum_42mm-8328",
+            "description": "Apple Watch Series 2 Aluminum 42mm watch. Announced Sep 2016. Features 1.65″  display, Apple S2 chipset, 334 mAh battery, 8 GB storage, 512 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "Watch Series 1 Aluminum 42mm",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch1-sport-42mm.jpg",
+            "url": "apple_watch_series_1_aluminum_42mm-8334",
+            "description": "Apple Watch Series 1 Aluminum 42mm watch. Announced Sep 2016. Features 1.65″  display, Apple S1P chipset, 250 mAh battery, 8 GB storage, 512 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "Watch Series 2 Aluminum 38mm",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-38mm.jpg",
+            "url": "apple_watch_series_2_aluminum_38mm-8327",
+            "description": "Apple Watch Series 2 Aluminum 38mm watch. Announced Sep 2016. Features 1.5″  display, Apple S2 chipset, 273 mAh battery, 8 GB storage, 512 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "Watch Series 1 Aluminum 38mm",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-38mm.jpg",
+            "url": "apple_watch_series_1_aluminum_38mm-8333",
+            "description": "Apple Watch Series 1 Aluminum 38mm watch. Announced Sep 2016. Features 1.5″  display, Apple S1P chipset, 205 mAh battery, 8 GB storage, 512 MB RAM, Ion-X strengthened glass."
+        },
+        {
+            "name": "iPhone 7 Plus",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg",
+            "url": "apple_iphone_7_plus-8065",
+            "description": "Apple iPhone 7 Plus smartphone. Announced Sep 2016. Features 5.5″  display, Apple A10 Fusion chipset, Dual: 12 MP (f/1.8, 28mm, 1/3″, OIS) + 12 MP primary camera, 7 MP front camera, 2900 mAh battery, 256 GB storage, 3 GB RAM, Ion-strengthened glass."
+        },
+        {
+            "name": "iPhone 7",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7r4.jpg",
+            "url": "apple_iphone_7-8064",
+            "description": "Apple iPhone 7 smartphone. Announced Sep 2016. Features 4.7″  display, Apple A10 Fusion chipset, 12 MP primary camera, 7 MP front camera, 1960 mAh battery, 256 GB storage, 2 GB RAM, Ion-strengthened glass."
+        },
+        {
+            "name": "iPad Pro 9.7 (2016)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-97.jpg",
+            "url": "apple_ipad_pro_9_7_(2016)-7984",
+            "description": "Apple iPad Pro 9.7 (2016) tablet. Announced Mar 2016. Features 9.7″  display, Apple A9X chipset, 12 MP primary camera, 5 MP front camera, 7306 mAh battery, 256 GB storage, 2 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPhone SE",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5se-ofic.jpg",
+            "url": "apple_iphone_se-7969",
+            "description": "Apple iPhone SE smartphone. Announced Mar 2016. Features 4.0″  display, Apple A9 chipset, 12 MP primary camera, 1.2 MP front camera, 1624 mAh battery, 128 GB storage, 2 GB RAM."
+        },
+        {
+            "name": "iPhone 6s Plus",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6s-plus.jpg",
+            "url": "apple_iphone_6s_plus-7243",
+            "description": "Apple iPhone 6s Plus smartphone. Announced Sep 2015. Features 5.5″  display, Apple A9 chipset, 12 MP primary camera, 5 MP front camera, 2750 mAh battery, 128 GB storage, 2 GB RAM, Ion-strengthened glass."
+        },
+        {
+            "name": "iPhone 6s",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6s1.jpg",
+            "url": "apple_iphone_6s-7242",
+            "description": "Apple iPhone 6s smartphone. Announced Sep 2015. Features 4.7″  display, Apple A9 chipset, 12 MP primary camera, 5 MP front camera, 1715 mAh battery, 128 GB storage, 2 GB RAM, Ion-strengthened glass."
+        },
+        {
+            "name": "iPad Pro 12.9 (2015)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-.jpg",
+            "url": "apple_ipad_pro_12_9_(2015)-7562",
+            "description": "Apple iPad Pro 12.9 (2015) tablet. Announced Sep 2015. Features 12.9″  display, Apple A9X chipset, 8 MP primary camera, 1.2 MP front camera, 10307 mAh battery, 256 GB storage, 4 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "iPad mini 4 (2015)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/ipad-mini-41.jpg",
+            "url": "apple_ipad_mini_4_(2015)-7561",
+            "description": "Apple iPad mini 4 (2015) tablet. Announced Sep 2015. Features 7.9″  display, Apple A8 chipset, 5124 mAh battery, 128 GB storage, 2 GB RAM, Scratch-resistant glass."
+        },
+        {
+            "name": "Watch Edition 42mm (1st gen)",
+            "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-edition-42mm.jpg",
+            "url": "apple_watch_edition_42mm_(1st_gen)-7698",
+            "description": "Apple Watch Edition 42mm (1st gen) watch. Announced Sep 2014. Features 1.65″  display, Apple S1 chipset, 250 mAh battery, 8 GB storage, 512 MB RAM, Sapphire crystal glass."
+        }
+    ],
+    "prev": "apple-phones-48",
+    "next": "apple-phones-f-48-0-p3",
+    "pages": [
+        {
+            "number": 1,
+            "url": "apple-phones-48"
+        },
+        {
+            "number": 2,
+            "active": true
+        },
+        {
+            "number": 3,
+            "url": "apple-phones-f-48-0-p3"
+        }
+    ]
+}
