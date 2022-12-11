@@ -1,3 +1,4 @@
+
 import axios from "axios";
 import { useState, useEffect } from "react";
 
@@ -43,12 +44,12 @@ const ShowPhones = () => {
 
                                     
                                 <li className="list-group-item">Marca: {phone.marca_id} </li>
-                                <li className="list-group-item">Marca: {phone.bateria} </li>
-                                <li className="list-group-item">Marca: {phone.cpu} </li>
-                                <li className="list-group-item">Marca: {phone.sistemaOperativo} </li>
-                                <li className="list-group-item">Marca: {phone.pantallaSize} </li>
-                                <li className="list-group-item">Marca: {phone.peso} </li>
-                                <li className="list-group-item">Marca: {phone.dimensiones} </li>
+                                <li className="list-group-item">Bateria: {phone.bateria} </li>
+                                <li className="list-group-item">CPU: {phone.cpu} </li>
+                                <li className="list-group-item">Sistema Operativo: {phone.sistemaOperativo} </li>
+                                <li className="list-group-item">Display: {phone.pantallaSize} </li>
+                                <li className="list-group-item">Peso: {phone.peso} </li>
+                                <li className="list-group-item">Dimensiones: {phone.dimensiones} </li>
                                 </ul>
                                 
                             </div>
@@ -67,3 +68,4 @@ const ShowPhones = () => {
 };
 
 export default ShowPhones;
+

@@ -2,6 +2,9 @@
 
 
 import PhoneModel from "../models/PhoneModel.js";
+import { getPhoneComments } from "./commentsControllers_BBDD.js";
+
+
 
 /* METODOS DEL CRUD */
 
@@ -27,7 +30,13 @@ export const getPhone = async (req,res)=>{
     const phone  = await PhoneModel.findOne({
         where:{id:req.params.id}
     })
-    res.json(phone)
+
+    //obtenemos los comentarios asociados al celular
+    const comments = await getPhoneComments(req.params.id);
+
+    phone.dataValues.comments = comments;
+    res.json(phone)    
+
    } catch (error) {
     res.json({message: error.message})
    } 
@@ -44,38 +53,3 @@ export const getPhonesBrands = async (req, res) =>{
         res.json({message: error.message})
     }
 }
-
-/* 
-//crear UN REGISTRO
- export const createBlog = async (req,res)=>{
-    try {
-        await BlogModel.create (req.body)
-        res.json ({message: "Registro creado"})
-    } catch (error) {
-        res.json ({message:error.message})
-    }
- }; */
-
- //actualizar un registro
-/* 
- export const updateBlog =async (req,res)=>{
-    try {
-        await BlogModel.update(req.body,{
-            where:{id:req.params.id} 
-        })
-        res.json ({message: "Registro Actualizado"})
-    } catch (error) {
-        res.json ({message:error.message})
-    }
- } */
-/* 
- export const deleteBlog = async (req,res)=>{
-    try {
-        await BlogModel.destroy({
-            where:{id:req.params.id} 
-        })
-        res.json ({message: "Registro eliminado"})
-    } catch (error) {
-        res.json ({message:error.message}) 
-    }
- } */
