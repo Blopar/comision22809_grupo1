@@ -32,7 +32,7 @@ const ShowSpecifics = () => {
 
     //procedimiento para agregar comentarios a la BBDD
     const [comments, setNewComment] = useState("")
-    const [ranking, setRanking] = useState("")    
+    const [ranking, setRanking] = useState("")
 
     const navigate = useNavigate()
 
@@ -82,34 +82,50 @@ const ShowSpecifics = () => {
                     Object.keys(commentsBBDD).map(element => {
                         return (
 
-                            <ul className="list-group list-group-flush">
-                                <li className="list-group-item">Comentarios: {commentsBBDD[element].comentarios} </li>
-                                <li className="list-group-item">Calificacion: {commentsBBDD[element].calificacion}
-
+                            <div class="card" id="commentCard">
+                                <div class="card-header">
                                     <div class="rate_comment"
-                                        type="text"
-                                    >
-                                        <input type="radio" id={`comm_star5_`+element} name="rate" checked={5 === commentsBBDD[element].calificacion} />
-                                        <label for={`comm_star5_`+element} title="text">5 stars</label>
-                                        <input type="radio" id={`comm_star4_`+element} name="rate" checked={4 === commentsBBDD[element].calificacion} />
-                                        <label for={`comm_star4_`+element} title="text">4 stars</label>
-                                        <input type="radio" id={`comm_star3_`+element} name="rate" checked={3 === commentsBBDD[element].calificacion} />
-                                        <label for={`comm_star3_`+element} title="text">3 stars</label>
-                                        <input type="radio" id={`comm_star2_`+element} name="rate" checked={2 === commentsBBDD[element].calificacion} />
-                                        <label for={`comm_star2_`+element} title="text">2 stars</label>
-                                        <input type="radio" id={`comm_star1_`+element} name="rate" checked={1 === commentsBBDD[element].calificacion} />
-                                        <label for={`comm_star1_`+element} title="text">1 star</label>
+                                        type="text">
+
+                                        <input type="radio"
+                                            id={`comm_star5_` + element}
+                                            name={"rate_" + element}
+                                            checked={5 === commentsBBDD[element].calificacion} />
+                                        <label for={`comm_star5_` + element} title="text">5 stars</label>
+                                        <input type="radio"
+                                            id={`comm_star4_` + element}
+                                            name={"rate_" + element}
+                                            checked={4 === commentsBBDD[element].calificacion} />
+                                        <label for={`comm_star4_` + element} title="text">4 stars</label>
+                                        <input type="radio"
+                                            id={`comm_star3_` + element}
+                                            name={"rate_" + element}
+                                            checked={3 === commentsBBDD[element].calificacion} />
+                                        <label for={`comm_star3_` + element} title="text">3 stars</label>
+                                        <input type="radio"
+                                            id={`comm_star2_` + element}
+                                            name={"rate_" + element}
+                                            checked={2 === commentsBBDD[element].calificacion} />
+                                        <label for={`comm_star2_` + element} title="text">2 stars</label>
+                                        <input type="radio"
+                                            id={`comm_star1_` + element}
+                                            name={"rate_" + element}
+                                            checked={1 === commentsBBDD[element].calificacion} />
+                                        <label for={`comm_star1_` + element} title="text">1 star</label>
 
                                     </div>
-                                </li>
-                            </ul>
+                                </div>
+                                <div class="card-body">
+                                    <blockquote class="blockquote mb-0">
+                                        <p>{commentsBBDD[element].comentarios}</p>
+                                        
+                                    </blockquote>
+                                    
+                                </div>
+                            </div>
                         )
                     })
                 }
-
-
-
-
             </div>
 
             <form onSubmit={addComment}>
@@ -132,7 +148,6 @@ const ShowSpecifics = () => {
                         <label for="star2" title="text">2 stars</label>
                         <input type="radio" id="star1" name="rate" value="1" />
                         <label for="star1" title="text">1 star</label>
-
                     </div>
 
                 </div>

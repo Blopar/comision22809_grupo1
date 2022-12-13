@@ -61,3 +61,7 @@
 .rate_comment > input:checked ~ label {
     color: #ffc700;       
 }  
+
+#commentCard{
+    margin: 0.5rem auto;
+}
