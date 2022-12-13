@@ -1,4 +1,5 @@
 import "./App.css";
+import "./estilo.css"
 
 import ShowPhones from "./components/ShowPhones"
 import { BrowserRouter, Routes, Route } from "react-router-dom";
