@@ -5,9 +5,7 @@ import CommentsModel from "../models/CommentsModel.js";
 /* METODOS DEL CRUD */
 
 export const getPhoneComments = async (req, res) =>{
-    console.log("Phone Comments...************");
-    console.log(req);
-
+   
     try {
         const phoneComments = await CommentsModel.findAll({
             where: {id_phone:req}
