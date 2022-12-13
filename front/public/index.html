@@ -5,7 +5,7 @@
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-    <!-- <link rel="stylesheet" href="estilo.css" /> -->
+    <link rel="stylesheet" href="estilo.css" />
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
 <!-- CSS only -->
@@ -22,65 +22,70 @@
     <title>Compara celulares</title>
   </head>
   <body>
-   
-    
+       
         <header>
-            <nav>
-                <a href="#">Inicio</a>
-                <a href="#">Acerca de</a>
-                
-            </nav>
+
+            <!-- **** -->
+            <nav class="navbar navbar-expand-lg navbar-light ">
+                <div class="container-fluid">
+                  <a class="navbar-brand" href="/">
+                    <img src="./Imagenes/codo a codo.png" width="150"  alt="">
+                  </a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+
+                  <div class="collapse navbar-collapse p-nav" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        
+                        <li class="nav-item">
+                        <a class="nav-link active" href="/" aria-current="page">Inicio</a>
+                        
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="/integrantes">Integrantes</a>
+                      </li>
+                    
+                    </ul>
+                    
+                  </div>
+                </div>
+              </nav>
+        <!-- **** -->
+
+          
+
             <section class="textos-header">
-                <h1>Tp codo a codo</h1>
-                <h2>Celulares</h2>
+                <h1>Trabajo Integrador</h1>
+                <h2>Celulares </h2>
+            
             </section>
-            <div class="wave" style="height: 150px; overflow: hidden;"><svg viewBox="0 0 500 150" preserveAspectRatio="none"
+
+
+            <div class="wave" style="height: 150px; overflow: hidden;">
+                <svg viewBox="0 0 500 80" preserveAspectRatio="none"
                     style="height: 100%; width: 100%;">
                     <path d="M0.00,49.98 C150.00,150.00 349.20,-50.00 500.00,49.98 L500.00,150.00 L0.00,150.00 Z"
                         style="stroke: none; fill: #fff;"></path>
-                </svg></div>
+                </svg>
+            </div>
+
         </header>
         <main>
          
             <section class="clientes contenedor">
-                <h2 class="titulo">Listado de celulares</h2>
-            
-                <div class="row justify-content-center">
-                  <div class="col-12 col-md-10 col-lg-8">
-                      <form class="card card-sm">
-                          <div class="card-body row no-gutters align-items-center">
-                              <div class="col-auto">
-                                  <i class="fas fa-search h4 text-body"></i>
-                              </div>
-                              <!--end of col-->
-                              <div class="col">
-                                  <input class="form-control form-control-lg form-control-borderless" type="search" placeholder="Buscar">
-                              </div>
-                              <!--end of col-->
-                              <div class="col-auto">
-                                  <button class="btn btn-lg btn-dark" type="submit">Buscar</button>
-                              </div>
-                              <!--end of col-->
-                          </div>
-                      </form>
-                  </div>
-                  <!--end of col-->
-              </div>
-             
+                
+      
                 <div class="album py-5 bg-light">
                   <div class="container">
-              
                         <noscript>You need to enable JavaScript to run this app.</noscript>
                       <div id="root"></div>
-                  
                   </div>
                 </div>
               
-                
-                
             </section>
          
-      </main>
+        </main>
         <footer>
             <div class="contenedor-footer">
                
@@ -90,6 +95,8 @@
             </div>
             <h2 class="titulo-final">&copy; codo a codo</h2>
         </footer>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
     </body>
     
     </html>

@@ -8,10 +8,9 @@ const router = express.Router()
 
 router.get ("/", getAllSpec)
 router.get ("/:id",getPhone)
-
 router.get ("/brands/:marca_id",getPhonesBrands)
 router.post ("/:id",createComment)
-/*
+/*router.post ("/",createBlog)
 router.put("/:id",updateBlog)
 router.delete("/:id",deleteBlog) */ 
  

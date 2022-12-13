@@ -10,7 +10,7 @@ body {
 }
 
 .contenedor {
-  padding: 60px 0;
+  padding: 10px 0;
   width: 90%;
   max-width: 1000px;
   margin: auto;
@@ -58,12 +58,15 @@ nav > a:hover{
 
 header .textos-header{
   display: flex;
-  height: 430px;
+  height: 250px;
   width: 100%;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   text-align: center;
+}
+.p-nav{
+  margin-right: 50px;
 }
 
 .textos-header h1{
