@@ -61,3 +61,22 @@
 .rate_comment > input:checked ~ label {
     color: #ffc700;       
 }  
+
+/****************/
+
+#form_user{
+    width: 100%;
+}
+
+@media screen and (max-width:750px) {
+
+     #contenedor {
+    display: grid;
+    width: 100%;
+    } 
+    #list_spec, #img_phone, #user_comments, #form_comment {
+        
+        width: 100%;
+        margin: 1rem;
+    }    
+}  

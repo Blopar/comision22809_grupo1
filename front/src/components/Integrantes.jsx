@@ -27,14 +27,6 @@ const  Integrantes = () => {
         </ul>
 
 
-        	
-	
-	
-	
-	
-
-
-
     </>
   );
 };
