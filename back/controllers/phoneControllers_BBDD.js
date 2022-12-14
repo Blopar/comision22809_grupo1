@@ -2,7 +2,7 @@
 
 
 import PhoneModel from "../models/PhoneModel.js";
-import { getPhoneComments } from "./commentsControllers_BBDD.js";
+import { getPhoneComments } from "../controllers/commentsControllers_BBDD.js";
 
 
 

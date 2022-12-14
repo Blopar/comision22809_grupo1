@@ -32,7 +32,7 @@ const ShowSpecifics = () => {
 
     //procedimiento para agregar comentarios a la BBDD
     const [comments, setNewComment] = useState("")
-    const [ranking, setRanking] = useState("")
+    const [ranking, setRanking] = useState("")    
 
     const navigate = useNavigate()
 
@@ -51,31 +51,54 @@ const ShowSpecifics = () => {
 
 
     return (
-        <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <>
+        <nav aria-label="breadcrumb">
+          <ol className="breadcrumb">
+          <li className="breadcrumb-item" ><a href="/">Inicio</a></li>
+          <li className="breadcrumb-item active"  aria-current="page"><a href="/">Celular</a></li>
+          </ol>
+        </nav>
 
-            <div className="col card">
-                <div className="card shadow-sm">
-                    <img src={phone.imagen_url} class="card-img-top" alt="..." />
-
-                    <div className="card-body">
-                        <h5 className="card-title">{phone.nombre}</h5>
-                        <div className="d-flex justify-content-between align-items-center">
-                            <ul className="list-group list-group-flush">
-
-                                <li className="list-group-item">Marca: {phone.marca_id} </li>
-                                <li className="list-group-item">Bateria: {phone.bateria} </li>
-                                <li className="list-group-item">CPU: {phone.cpu} </li>
-                                <li className="list-group-item">Sistema Operativo: {phone.sistemaOperativo} </li>
-                                <li className="list-group-item">Display: {phone.pantallaSize} </li>
-                                <li className="list-group-item">Peso: {phone.peso} </li>
-                                <li className="list-group-item">Dimensiones: {phone.dimensiones} </li>
-                            </ul>
-
+        <div className="row row-cols-sm-1   g-3">
+        <div class="card-header">
+                <h2 className="card-title">{phone.marca_id}</h2>
+                <h5 className="card-title">Modelo: {phone.nombre}</h5></div>
+                
+        </div>
+        <div className="row row-cols-sm-1 row-cols-sm-2  g-2">
+            
+                <div className="col card">
+                    <div className="col card">
+                    
+                        
+                        <div className="card shadow-sm " >
+                            <img src={phone.imagen_url} class=" img-specifics" alt="..." />
+                        
                         </div>
                     </div>
                 </div>
-            </div>
+                <div className="col card">
+                    <div className="card-body">
+                            <h5 className="card-title">Caracteristicas</h5>
+                            <div className="d-flex justify-content-between align-items-center">
+                                <ul className="list-group list-group-flush">
 
+                                    <li className="list-group-item">Marca: {phone.marca_id} </li>
+                                    <li className="list-group-item">Bateria: {phone.bateria} </li>
+                                    <li className="list-group-item">CPU: {phone.cpu} </li>
+                                    <li className="list-group-item">Sistema Operativo: {phone.sistemaOperativo} </li>
+                                    <li className="list-group-item">Display: {phone.pantallaSize} </li>
+                                    <li className="list-group-item">Peso: {phone.peso} </li>
+                                    <li className="list-group-item">Dimensiones: {phone.dimensiones} </li>
+                                </ul>
+
+                            </div>
+                    </div>
+                </div>
+        </div>
+        <div className="row row-cols-1">
+            
+            <div className="col card">
             <div>Opiniones de Usuarios
                 {
 
@@ -127,6 +150,23 @@ const ShowSpecifics = () => {
                     })
                 }
             </div>
+            
+
+
+
+
+            </div>
+            
+        </div>
+
+
+        <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            
+           
+
+          
+
+            
 
             <form onSubmit={addComment}>
                 <div className="mb-3">
@@ -148,6 +188,7 @@ const ShowSpecifics = () => {
                         <label for="star2" title="text">2 stars</label>
                         <input type="radio" id="star1" name="rate" value="1" />
                         <label for="star1" title="text">1 star</label>
+
                     </div>
 
                 </div>
@@ -167,6 +208,9 @@ const ShowSpecifics = () => {
 
             </form>
         </div>
+        
+        
+        </>
 
     );
 };
