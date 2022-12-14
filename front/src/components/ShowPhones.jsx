@@ -57,7 +57,7 @@ const ShowPhones = () => {
           <li className="breadcrumb-item active"  aria-current="page"><a href="/">Inicio</a></li>
          
           </ol>
-        </nav>
+        </nav> 
         <h2 class="titulo">Listado de celulares</h2>
         <div className="row justify-content-center">
             <div className="col-12 col-md-10 col-lg-8 pb-5">
@@ -96,13 +96,7 @@ const ShowPhones = () => {
                               
                                       
                                   <li className="list-group-item"> <strong>Marca:</strong> {phone.marca_id} </li>
-                                  {/*
-                                  <li className="list-group-item">Bateria: {phone.bateria} </li>
-                                  <li className="list-group-item">CPU: {phone.cpu} </li>
-                                  <li className="list-group-item">Sistema: {phone.sistemaOperativo} </li>
-                                  <li className="list-group-item">Pantalla: {phone.pantallaSize} </li>
-                                  <li className="list-group-item">Peso: {phone.peso} </li>
-                                  <li className="list-group-item">Dimensiones: {phone.dimensiones} </li>*/}
+                                 
                                   </ul>
                                   
                               </div>

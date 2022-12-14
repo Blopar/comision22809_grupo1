@@ -1,28 +1,4 @@
-//import {getAllBrands,  getBrandPhone, getPhoneSpec } from "./controllers/phoneControllers.js"
-
-
 console.log("Inicio de programa");
-/* 
-//getAllBrands();
-
-//listado de telefonos -> debería venir de un listado predefinido en el Front End
-const arrayPhones = ["Alcatel","Apple","BlackBerry","Cat","Google","HTC","Huawei","LG",
-        "BLU","Motorola","Nokia","Samsung","TCL","Sony","Xiaomi","ZTE"];
-
-        
-const brandPhoneData = await getBrandPhone(arrayPhones[3]);//Apple
-//console.log(brandPhoneData.data.length);
- 
-let deviceSpec =[];
-//for(let i=0;i<brandPhoneData.data.length;i++){
-for(let i=0;i<5;i++){
-        deviceSpec[i] = await getPhoneSpec(brandPhoneData.data[i].url);
-       
-}
-console.log(deviceSpec); 
- */
-
-
 
 import express from "express"
 import cors from "cors" 
