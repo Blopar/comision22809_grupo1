@@ -35,12 +35,14 @@
 
 #### back: (JSX)
 ```
+cd back
 npm i
-nodemon <app>
+nodemon app.js
 ```
 
 #### front: (React)
 ``` 
+cd front
 npm i
 npm start	
 ```
