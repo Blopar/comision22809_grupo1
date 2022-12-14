@@ -17,8 +17,21 @@
 | Maria Eugenia	Lisio     | mariaeugenial@gmail.com       |
 -----------------------------------------------------------
 
-### Como ejecutar proyecto:
+### Pasos pre-requeridos
+```
+· Instalar Node (+v14.x) y Npm (+v6.x).
 
+· Instalar MySQL server (+v8.x).
+
+· Editar las crendenciales a la conexion de la db (puerto, contraseña, etc):
+    back/database/db.js
+    
+· Ejecutar el SQL Script contactado a la instancia local MySQL para crear 
+  la base de datos "celulares" requerida por la aplicacion: 
+    back/database/bbdd_phones_091222.sql
+```
+
+### Como ejecutar proyecto:
 
 #### back: (JSX)
 ```
