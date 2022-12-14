@@ -1,5 +1,5 @@
 
-## Codo a Codo REACT - Grupo 1 - TP
+## Codo a Codo REACT - Grupo 1 - TP Integrador ("Celulares")
 
 ## Integrantes:
 
